@@ -1,3 +1,0 @@
-# Projeto Lumen
-
-Primeiro Projeto.
